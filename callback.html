@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="referrer" content="no-referrer">
+<title>Sign-in – FootyFrenzy Autopilot</title>
+<style>
+  body { margin: 0; background: #0B0F0C; color: #e8ece9; font: 17px/1.6 system-ui, sans-serif; }
+  main { max-width: 680px; margin: 0 auto; padding: 48px 16px; }
+  h1 { color: #39FF14; margin-top: 0; }
+  code { display: block; word-break: break-all; background: #16201a; padding: 12px; border-radius: 6px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Sign-in received</h1>
+  <p>Copy the full address of this page and paste it into the FootyFrenzy script. Nothing is stored here.</p>
+  <code id="out"></code>
+</main>
+<script>
+  var p = new URLSearchParams(location.search);
+  document.getElementById('out').textContent = p.get('error') ? 'Error: ' + p.get('error') : (p.get('code') ? location.href : 'No code in the address.');
+</script>
+</body>
+</html>
