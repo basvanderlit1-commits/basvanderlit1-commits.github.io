@@ -1,0 +1,740 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Darts 6-wekenplan//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Darts 6-wekenplan
+X-WR-TIMEZONE:Europe/Amsterdam
+BEGIN:VTIMEZONE
+TZID:Europe/Amsterdam
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:darts-6wk-20261109@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261109T200000
+DTEND;TZID=Europe/Amsterdam:20261109T210000
+SUMMARY:Darts W1: Routine en cue-woord leren kennen (60 min)
+DESCRIPTION:Week 1 · Routine automatiseren\nDoel: Routine en cue-woord ler
+ en kennen\nLopen vandaag: Jog-sessie\n\nStart: hartslagblok\, direct na he
+ t lopen\nKern: 15 min elke stap van de routine bewust oefenen en je cue-wo
+ ord kiezen\; 15 min scoren op T20 met routine\nAfsluiter: 1 leg 501 alleen
+ \n\nOpbouw: 0–10 start · 10–15 ademhaling · 15–45 kern · 45–55 
+ afsluiter · 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0
+ –10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W1: Routine en cue-woord leren kennen (60 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261110@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261110T200000
+DTEND;TZID=Europe/Amsterdam:20261110T203000
+SUMMARY:Darts W1: Fris en zeker de wedstrijd in (30 min)
+DESCRIPTION:Week 1 · Routine automatiseren\nDoel: Fris en zeker de wedstri
+ jd in\nLopen vandaag: Duurwandeling\n\nLicht: 10 min inwerpen met routine\
+ , 5 min ademhaling\, 15 min rustige legs 501. Geen druk\, geen straf.\n\nO
+ pbouw: 0–10 start · 10–15 ademhaling · 15–45 kern · 45–55 afslu
+ iter · 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10
+ ).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W1: Fris en zeker de wedstrijd in (30 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261112@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261112T200000
+DTEND;TZID=Europe/Amsterdam:20261112T210000
+SUMMARY:Darts W1: Vast tempo in je routine (60 min)
+DESCRIPTION:Week 1 · Routine automatiseren\nDoel: Vast tempo in je routine
+ \nLopen vandaag: Jog-sessie\n\nStart: hartslagblok\, direct na het lopen\n
+ Kern: 15 min 10 beurten filmen en de tijd per beurt meten\, streef naar st
+ eeds hetzelfde tempo\; 15 min doubles D16\, D8\, D20 zonder straf\nAfsluit
+ er: 1 leg 501 alleen\n\nOpbouw: 0–10 start · 10–15 ademhaling · 15
+ –45 kern · 45–55 afsluiter · 55–60 noteren (gemiddelde\, routine-t
+ rouw x/10\, spanning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W1: Vast tempo in je routine (60 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261113@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261113T190000
+DTEND;TZID=Europe/Amsterdam:20261113T200000
+SUMMARY:Darts W1: Routine op elke pijl\, ook bij finishes (60 min)
+DESCRIPTION:Week 1 · Routine automatiseren\nDoel: Routine op elke pijl\, o
+ ok bij finishes\nLopen vandaag: Rust\n\nStart: inwerpen met volledige rout
+ ine\nKern: 30 min 501 alleen\; noteer per beurt de score en of je de routi
+ ne hield\nAfsluiter: checkouts 40–80\, ook met routine\n\nOpbouw: 0–10
+  start · 10–15 ademhaling · 15–45 kern · 45–55 afsluiter · 55–
+ 60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W1: Routine op elke pijl\, ook bij finishes (60 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261114@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261114T200000
+DTEND;TZID=Europe/Amsterdam:20261114T210000
+SUMMARY:Darts W1: Routine houden met verhoogde hartslag (60 min)
+DESCRIPTION:Week 1 · Routine automatiseren\nDoel: Routine houden met verho
+ ogde hartslag\nLopen vandaag: Lange wandeling\n\nStart: hartslagblok\, dir
+ ect na het lopen\nKern: 30 min legs 501 alleen\nAfsluiter: checkouts 40–
+ 80\n\nOpbouw: 0–10 start · 10–15 ademhaling · 15–45 kern · 45–5
+ 5 afsluiter · 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning
+  0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W1: Routine houden met verhoogde hartslag (60 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261115@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261115T200000
+DTEND;TZID=Europe/Amsterdam:20261115T210000
+SUMMARY:Darts W1: Thuis-basislijn (60 min)
+DESCRIPTION:Week 1 · Routine automatiseren\nDoel: Thuis-basislijn\nLopen v
+ andaag: Herstelwandeling\n\nStart: inwerpen met volledige routine\nKern: w
+ eekmeting\, 5 legs 501 (gemiddelde\, routine-trouw\, spanning)\nAfsluiter:
+  beslissen: routine in 8 van 10 beurten? Dan door naar week 2\n\nOpbouw: 0
+ –10 start · 10–15 ademhaling · 15–45 kern · 45–55 afsluiter · 
+ 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W1: Thuis-basislijn (60 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261116@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261116T200000
+DTEND;TZID=Europe/Amsterdam:20261116T203000
+SUMMARY:Darts W2: Fris de wedstrijd in (30 min)
+DESCRIPTION:Week 2 · Lichte druk: camera en computertegenstander\nDoel: Fr
+ is de wedstrijd in\nLopen vandaag: Jog-sessie\n\nLicht: 10 min inwerpen me
+ t routine\, 5 min ademhaling\, 15 min rustige legs 501. Geen druk\, geen s
+ traf. Avond voor de wedstrijd.\n\nOpbouw: 0–10 start · 10–15 ademhali
+ ng · 15–45 kern · 45–55 afsluiter · 55–60 noteren (gemiddelde\, r
+ outine-trouw x/10\, spanning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W2: Fris de wedstrijd in (30 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261118@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261118T200000
+DTEND;TZID=Europe/Amsterdam:20261118T210000
+SUMMARY:Darts W2: Wennen aan de camera (60 min)
+DESCRIPTION:Week 2 · Lichte druk: camera en computertegenstander\nDoel: We
+ nnen aan de camera\nLopen vandaag: Duurwandeling (verschoven)\n\nStart: ha
+ rtslagblok\, direct na het lopen\nKern: camera aan\, 30 min legs 501 allee
+ n\nAfsluiter: 1 leg tegen de computer op je thuisgemiddelde\n\nOpbouw: 0
+ –10 start · 10–15 ademhaling · 15–45 kern · 45–55 afsluiter · 
+ 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W2: Wennen aan de camera (60 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261119@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261119T200000
+DTEND;TZID=Europe/Amsterdam:20261119T210000
+SUMMARY:Darts W2: Routine houden terwijl je gefilmd wordt (60 min)
+DESCRIPTION:Week 2 · Lichte druk: camera en computertegenstander\nDoel: Ro
+ utine houden terwijl je gefilmd wordt\nLopen vandaag: Jog-sessie\n\nStart:
+  hartslagblok\, direct na het lopen\, gefilmd\nKern: doubles en checkouts\
+ , gefilmd\nAfsluiter: 1 leg tegen de computer\n\nOpbouw: 0–10 start · 1
+ 0–15 ademhaling · 15–45 kern · 45–55 afsluiter · 55–60 noteren 
+ (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W2: Routine houden terwijl je gefilmd wordt (60 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261120@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261120T190000
+DTEND;TZID=Europe/Amsterdam:20261120T200000
+SUMMARY:Darts W2: Routine houden met een tegenstander (60 min)
+DESCRIPTION:Week 2 · Lichte druk: camera en computertegenstander\nDoel: Ro
+ utine houden met een tegenstander\nLopen vandaag: Rust\n\nStart: inwerpen 
+ met volledige routine\nKern: camera aan\, 30 min legs tegen de computer op
+  je thuisgemiddelde\nAfsluiter: één beslissende leg: wie wint\, wint de 
+ avond\n\nOpbouw: 0–10 start · 10–15 ademhaling · 15–45 kern · 45
+ –55 afsluiter · 55–60 noteren (gemiddelde\, routine-trouw x/10\, span
+ ning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W2: Routine houden met een tegenstander (60 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261121@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261121T200000
+DTEND;TZID=Europe/Amsterdam:20261121T210000
+SUMMARY:Darts W2: Druk en hartslag samen (60 min)
+DESCRIPTION:Week 2 · Lichte druk: camera en computertegenstander\nDoel: Dr
+ uk en hartslag samen\nLopen vandaag: Lange wandeling\n\nStart: hartslagblo
+ k\, direct na het lopen\nKern: legs tegen de computer\nAfsluiter: checkout
+ s 40–100\n\nOpbouw: 0–10 start · 10–15 ademhaling · 15–45 kern 
+ · 45–55 afsluiter · 55–60 noteren (gemiddelde\, routine-trouw x/10\,
+  spanning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W2: Druk en hartslag samen (60 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261122@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261122T200000
+DTEND;TZID=Europe/Amsterdam:20261122T210000
+SUMMARY:Darts W2: Meten wat je echt doet (60 min)
+DESCRIPTION:Week 2 · Lichte druk: camera en computertegenstander\nDoel: Me
+ ten wat je echt doet\nLopen vandaag: Herstelwandeling\n\nStart: inwerpen m
+ et volledige routine\nKern: 15 min je opnames terugkijken en routine-trouw
+  en tempo tellen\; daarna weekmeting\, 5 legs gefilmd\nAfsluiter: 8 van 10
+ ? Door naar week 3\n\nOpbouw: 0–10 start · 10–15 ademhaling · 15–4
+ 5 kern · 45–55 afsluiter · 55–60 noteren (gemiddelde\, routine-trouw
+  x/10\, spanning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W2: Meten wat je echt doet (60 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261123@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261123T200000
+DTEND;TZID=Europe/Amsterdam:20261123T210000
+SUMMARY:Darts W3: Wennen aan straf (60 min)
+DESCRIPTION:Week 3 · Consequenties\nDoel: Wennen aan straf\nLopen vandaag:
+  Jog-sessie\n\nStart: hartslagblok\, direct na het lopen\nKern: legs 501\;
+  elke beurt onder 41 = 10 squats\nAfsluiter: 1 leg tegen de computer\; bij
+  verlies straf\n\nOpbouw: 0–10 start · 10–15 ademhaling · 15–45 ke
+ rn · 45–55 afsluiter · 55–60 noteren (gemiddelde\, routine-trouw x/1
+ 0\, spanning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W3: Wennen aan straf (60 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261124@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261124T200000
+DTEND;TZID=Europe/Amsterdam:20261124T203000
+SUMMARY:Darts W3: Fris de wedstrijd in (30 min)
+DESCRIPTION:Week 3 · Consequenties\nDoel: Fris de wedstrijd in\nLopen vand
+ aag: Duurwandeling\n\nLicht: 10 min inwerpen met routine\, 5 min ademhalin
+ g\, 15 min rustige legs 501. Geen druk\, geen straf.\n\nOpbouw: 0–10 sta
+ rt · 10–15 ademhaling · 15–45 kern · 45–55 afsluiter · 55–60 n
+ oteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W3: Fris de wedstrijd in (30 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261126@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261126T200000
+DTEND;TZID=Europe/Amsterdam:20261126T210000
+SUMMARY:Darts W3: Doubles onder druk (60 min)
+DESCRIPTION:Week 3 · Consequenties\nDoel: Doubles onder druk\nLopen vandaa
+ g: Jog-sessie\n\nStart: hartslagblok\, direct na het lopen\nKern: doubles 
+ D16\, D8\, D20 (3 pijlen per double)\; geen enkele raak = straf\nAfsluiter
+ : 3 pijlen op D20\; mis = straf\n\nOpbouw: 0–10 start · 10–15 ademhal
+ ing · 15–45 kern · 45–55 afsluiter · 55–60 noteren (gemiddelde\, 
+ routine-trouw x/10\, spanning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W3: Doubles onder druk (60 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261127@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261127T190000
+DTEND;TZID=Europe/Amsterdam:20261127T200000
+SUMMARY:Darts W3: Echte consequenties (60 min)
+DESCRIPTION:Week 3 · Consequenties\nDoel: Echte consequenties\nLopen vanda
+ ag: Rust\n\nStart: inwerpen met volledige routine\nKern: 30 min doubles-oe
+ fening met straf\; elke mislukte ronde ook 1 euro in de pot voor een goed 
+ doel\nAfsluiter: 1 leg tegen de computer\; bij verlies straf\n\nOpbouw: 0
+ –10 start · 10–15 ademhaling · 15–45 kern · 45–55 afsluiter · 
+ 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W3: Echte consequenties (60 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261128@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261128T200000
+DTEND;TZID=Europe/Amsterdam:20261128T210000
+SUMMARY:Darts W3: Druk en hartslag samen (60 min)
+DESCRIPTION:Week 3 · Consequenties\nDoel: Druk en hartslag samen\nLopen va
+ ndaag: Lange wandeling\n\nStart: hartslagblok\, direct na het lopen\nKern:
+  legs tegen de computer\; elke verloren leg = straf\nAfsluiter: checkouts 
+ 40–100 met inzet\n\nOpbouw: 0–10 start · 10–15 ademhaling · 15–4
+ 5 kern · 45–55 afsluiter · 55–60 noteren (gemiddelde\, routine-trouw
+  x/10\, spanning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W3: Druk en hartslag samen (60 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261129@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261129T200000
+DTEND;TZID=Europe/Amsterdam:20261129T210000
+SUMMARY:Darts W3: Spanning 3–5 van 10 houden (60 min)
+DESCRIPTION:Week 3 · Consequenties\nDoel: Spanning 3–5 van 10 houden\nLo
+ pen vandaag: Herstelwandeling\n\nStart: inwerpen\nKern: 20 min Bob's 27\; 
+ daarna weekmeting\, 5 legs\nAfsluiter: 8 van 10? Door naar week 4\n\nOpbou
+ w: 0–10 start · 10–15 ademhaling · 15–45 kern · 45–55 afsluiter
+  · 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W3: Spanning 3–5 van 10 houden (60 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261130@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261130T200000
+DTEND;TZID=Europe/Amsterdam:20261130T210000
+SUMMARY:Darts W4: Wennen aan lawaai (60 min)
+DESCRIPTION:Week 4 · Publiek\nDoel: Wennen aan lawaai\nLopen vandaag: Jog-
+ sessie\n\nStart: hartslagblok\, direct na het lopen\, met zaalgeluid aan\n
+ Kern: legs 501 met zaalgeluid en camera\nAfsluiter: 1 leg tegen de compute
+ r\n\nOpbouw: 0–10 start · 10–15 ademhaling · 15–45 kern · 45–55
+  afsluiter · 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 
+ 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W4: Wennen aan lawaai (60 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261201@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261201T200000
+DTEND;TZID=Europe/Amsterdam:20261201T203000
+SUMMARY:Darts W4: Fris de wedstrijd in (30 min)
+DESCRIPTION:Week 4 · Publiek\nDoel: Fris de wedstrijd in\nLopen vandaag: D
+ uurwandeling\n\nLicht: 10 min inwerpen met routine\, 5 min ademhaling\, 15
+  min rustige legs 501. Geen druk\, geen straf.\n\nOpbouw: 0–10 start · 
+ 10–15 ademhaling · 15–45 kern · 45–55 afsluiter · 55–60 noteren
+  (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W4: Fris de wedstrijd in (30 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261203@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261203T200000
+DTEND;TZID=Europe/Amsterdam:20261203T210000
+SUMMARY:Darts W4: Doubles met onrust om je heen (60 min)
+DESCRIPTION:Week 4 · Publiek\nDoel: Doubles met onrust om je heen\nLopen v
+ andaag: Jog-sessie\n\nStart: hartslagblok\, direct na het lopen\nKern: dou
+ bles en checkouts met zaalgeluid\nAfsluiter: 3 pijlen op D16\; mis = straf
+ \n\nOpbouw: 0–10 start · 10–15 ademhaling · 15–45 kern · 45–55 
+ afsluiter · 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0
+ –10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W4: Doubles met onrust om je heen (60 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261204@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261204T190000
+DTEND;TZID=Europe/Amsterdam:20261204T200000
+SUMMARY:Darts W4: Spelen terwijl er iemand kijkt (60 min)
+DESCRIPTION:Week 4 · Publiek\nDoel: Spelen terwijl er iemand kijkt\nLopen 
+ vandaag: Rust\n\nStart: inwerpen met volledige routine\nKern: 30 min onlin
+ e legs tegen echte tegenstanders met webcam\, of iemand die via videobelle
+ n meekijkt\nAfsluiter: één beslissende leg\n\nOpbouw: 0–10 start · 10
+ –15 ademhaling · 15–45 kern · 45–55 afsluiter · 55–60 noteren (
+ gemiddelde\, routine-trouw x/10\, spanning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W4: Spelen terwijl er iemand kijkt (60 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261205@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261205T200000
+DTEND;TZID=Europe/Amsterdam:20261205T210000
+SUMMARY:Darts W4: Druk en hartslag samen (60 min)
+DESCRIPTION:Week 4 · Publiek\nDoel: Druk en hartslag samen\nLopen vandaag:
+  Lange wandeling\n\nStart: hartslagblok\, direct na het lopen\nKern: legs 
+ tegen de computer\, met meekijker of camera en zaalgeluid\nAfsluiter: chec
+ kouts met inzet\n\nOpbouw: 0–10 start · 10–15 ademhaling · 15–45 k
+ ern · 45–55 afsluiter · 55–60 noteren (gemiddelde\, routine-trouw x/
+ 10\, spanning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W4: Druk en hartslag samen (60 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261206@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261206T200000
+DTEND;TZID=Europe/Amsterdam:20261206T210000
+SUMMARY:Darts W4: Beoordeeld worden (60 min)
+DESCRIPTION:Week 4 · Publiek\nDoel: Beoordeeld worden\nLopen vandaag: Hers
+ telwandeling\n\nStart: inwerpen met volledige routine\nKern: 20 min filmen
+  en de opname naar iemand sturen\; daarna weekmeting\, 5 legs\nAfsluiter: 
+ 8 van 10? Door naar week 5\n\nOpbouw: 0–10 start · 10–15 ademhaling 
+ · 15–45 kern · 45–55 afsluiter · 55–60 noteren (gemiddelde\, rout
+ ine-trouw x/10\, spanning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W4: Beoordeeld worden (60 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261207@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261207T200000
+DTEND;TZID=Europe/Amsterdam:20261207T210000
+SUMMARY:Darts W5: Wennen aan een sterkere tegenstander (60 min)
+DESCRIPTION:Week 5 · Wedstrijdsimulatie\nDoel: Wennen aan een sterkere teg
+ enstander\nLopen vandaag: Jog-sessie\n\nStart: hartslagblok\, direct na he
+ t lopen\nKern: legs tegen de computer op ongeveer 5 punten boven je gemidd
+ elde\nAfsluiter: één beslissende leg\n\nOpbouw: 0–10 start · 10–15 
+ ademhaling · 15–45 kern · 45–55 afsluiter · 55–60 noteren (gemidd
+ elde\, routine-trouw x/10\, spanning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W5: Wennen aan een sterkere tegenstander (60 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261208@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261208T200000
+DTEND;TZID=Europe/Amsterdam:20261208T203000
+SUMMARY:Darts W5: Fris de wedstrijd in (30 min)
+DESCRIPTION:Week 5 · Wedstrijdsimulatie\nDoel: Fris de wedstrijd in\nLopen
+  vandaag: Duurwandeling\n\nLicht: 10 min inwerpen met routine\, 5 min adem
+ haling\, 15 min rustige legs 501. Geen druk\, geen straf.\n\nOpbouw: 0–1
+ 0 start · 10–15 ademhaling · 15–45 kern · 45–55 afsluiter · 55
+ –60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W5: Fris de wedstrijd in (30 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261210@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261210T200000
+DTEND;TZID=Europe/Amsterdam:20261210T210000
+SUMMARY:Darts W5: Uitgooien onder druk (60 min)
+DESCRIPTION:Week 5 · Wedstrijdsimulatie\nDoel: Uitgooien onder druk\nLopen
+  vandaag: Jog-sessie\n\nStart: hartslagblok\, direct na het lopen\nKern: c
+ heckout-ladder vanaf 41\nAfsluiter: 1 leg tegen de computer (+5)\n\nOpbouw
+ : 0–10 start · 10–15 ademhaling · 15–45 kern · 45–55 afsluiter 
+ · 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W5: Uitgooien onder druk (60 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261211@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261211T190000
+DTEND;TZID=Europe/Amsterdam:20261211T200000
+SUMMARY:Darts W5: Volledige wedstrijd nabootsen (60 min)
+DESCRIPTION:Week 5 · Wedstrijdsimulatie\nDoel: Volledige wedstrijd naboots
+ en\nLopen vandaag: Rust\n\nStart: wedstrijdopwarming zoals op een competit
+ ieavond (inwerpen\, ademhaling\, herlabelen)\nKern: best-of-5 tegen de com
+ puter (+5)\; bij verlies straf\nAfsluiter: noteren\n\nOpbouw: 0–10 start
+  · 10–15 ademhaling · 15–45 kern · 45–55 afsluiter · 55–60 not
+ eren (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W5: Volledige wedstrijd nabootsen (60 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261212@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261212T200000
+DTEND;TZID=Europe/Amsterdam:20261212T210000
+SUMMARY:Darts W5: Druk en hartslag samen (60 min)
+DESCRIPTION:Week 5 · Wedstrijdsimulatie\nDoel: Druk en hartslag samen\nLop
+ en vandaag: Lange wandeling\n\nStart: hartslagblok\, direct na het lopen\n
+ Kern: legs tegen de computer (+5)\nAfsluiter: finishes 40–170 met inzet\
+ n\nOpbouw: 0–10 start · 10–15 ademhaling · 15–45 kern · 45–55 a
+ fsluiter · 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0
+ –10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W5: Druk en hartslag samen (60 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261213@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261213T200000
+DTEND;TZID=Europe/Amsterdam:20261213T210000
+SUMMARY:Darts W5: Verschil thuis en onder druk meten (60 min)
+DESCRIPTION:Week 5 · Wedstrijdsimulatie\nDoel: Verschil thuis en onder dru
+ k meten\nLopen vandaag: Herstelwandeling\n\nStart: inwerpen met volledige 
+ routine\nKern: checkout-ladder\; probeer je hoogste trede van donderdag te
+  halen\; daarna weekmeting\, 5 legs\nAfsluiter: 8 van 10? Door naar week 6
+ \n\nOpbouw: 0–10 start · 10–15 ademhaling · 15–45 kern · 45–55 
+ afsluiter · 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0
+ –10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W5: Verschil thuis en onder druk meten (60 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261214@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261214T200000
+DTEND;TZID=Europe/Amsterdam:20261214T203000
+SUMMARY:Darts W6: Fris blijven (30 min)
+DESCRIPTION:Week 6 · Echte wedstrijd en evaluatie\nDoel: Fris blijven\nLop
+ en vandaag: Jog-sessie\n\nStart: hartslagblok\nLicht: 5 min ademhaling\, 1
+ 5 min rustige legs. Geen druk.\n\nOpbouw: 0–10 start · 10–15 ademhali
+ ng · 15–45 kern · 45–55 afsluiter · 55–60 noteren (gemiddelde\, r
+ outine-trouw x/10\, spanning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W6: Fris blijven (30 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261215@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261215T200000
+DTEND;TZID=Europe/Amsterdam:20261215T203000
+SUMMARY:Darts W6: Fris de wedstrijd in (30 min)
+DESCRIPTION:Week 6 · Echte wedstrijd en evaluatie\nDoel: Fris de wedstrijd
+  in\nLopen vandaag: Duurwandeling\n\nLicht: 10 min inwerpen met routine\, 
+ 5 min ademhaling\, 15 min rustige legs 501. Geen druk\, geen straf.\n\nOpb
+ ouw: 0–10 start · 10–15 ademhaling · 15–45 kern · 45–55 afsluit
+ er · 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W6: Fris de wedstrijd in (30 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261217@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261217T200000
+DTEND;TZID=Europe/Amsterdam:20261217T210000
+SUMMARY:Darts W6: Druk bijhouden (60 min)
+DESCRIPTION:Week 6 · Echte wedstrijd en evaluatie\nDoel: Druk bijhouden\nL
+ open vandaag: Jog-sessie\n\nStart: hartslagblok\, direct na het lopen\nKer
+ n: legs tegen de computer (+5)\nAfsluiter: checkouts met inzet\n\nOpbouw: 
+ 0–10 start · 10–15 ademhaling · 15–45 kern · 45–55 afsluiter ·
+  55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W6: Druk bijhouden (60 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261218@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261218T190000
+DTEND;TZID=Europe/Amsterdam:20261218T194500
+SUMMARY:Darts W6: Routine onderhouden (45 min)
+DESCRIPTION:Week 6 · Echte wedstrijd en evaluatie\nDoel: Routine onderhoud
+ en\nLopen vandaag: Rust\n\nStart: inwerpen met volledige routine\nKern: ru
+ stige legs\, alleen routine\nAfsluiter: geen\n\nOpbouw: 0–10 start · 10
+ –15 ademhaling · 15–45 kern · 45–55 afsluiter · 55–60 noteren (
+ gemiddelde\, routine-trouw x/10\, spanning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W6: Routine onderhouden (45 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261219@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261219T200000
+DTEND;TZID=Europe/Amsterdam:20261219T210000
+SUMMARY:Darts W6: Laatste simulatie (60 min)
+DESCRIPTION:Week 6 · Echte wedstrijd en evaluatie\nDoel: Laatste simulatie
+ \nLopen vandaag: Lange wandeling\n\nStart: hartslagblok\, direct na het lo
+ pen\nKern: best-of-5 tegen de computer (+5)\nAfsluiter: noteren\n\nOpbouw:
+  0–10 start · 10–15 ademhaling · 15–45 kern · 45–55 afsluiter 
+ · 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W6: Laatste simulatie (60 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:darts-6wk-20261220@darts-plan
+DTSTAMP:20261106T120000Z
+DTSTART;TZID=Europe/Amsterdam:20261220T200000
+DTEND;TZID=Europe/Amsterdam:20261220T210000
+SUMMARY:Darts W6: Evaluatie (60 min)
+DESCRIPTION:Week 6 · Echte wedstrijd en evaluatie\nDoel: Evaluatie\nLopen 
+ vandaag: Herstelwandeling\n\nStart: inwerpen met volledige routine\nKern: 
+ weekmeting\, 5 legs\; vergelijk alle meetpunten met week 1\nAfsluiter: kie
+ s het vervolg (zie "Voortgang en wanneer je hulp zoekt")\n\nOpbouw: 0–10
+  start · 10–15 ademhaling · 15–45 kern · 45–55 afsluiter · 55–
+ 60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+CATEGORIES:Darts
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Darts W6: Evaluatie (60 min)
+TRIGGER:-PT10M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
