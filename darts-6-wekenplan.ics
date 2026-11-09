@@ -24,17 +24,27 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:darts-6wk-20261109@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261109T200000
 DTEND;TZID=Europe/Amsterdam:20261109T210000
 SUMMARY:Darts W1: Routine en cue-woord leren kennen (60 min)
 DESCRIPTION:Week 1 · Routine automatiseren\nDoel: Routine en cue-woord ler
  en kennen\nLopen vandaag: Jog-sessie\n\nStart: hartslagblok\, direct na he
  t lopen\nKern: 15 min elke stap van de routine bewust oefenen en je cue-wo
- ord kiezen\; 15 min scoren op T20 met routine\nAfsluiter: 1 leg 501 alleen
- \n\nOpbouw: 0–10 start · 10–15 ademhaling · 15–45 kern · 45–55 
- afsluiter · 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0
- –10).
+ ord "soepel" uitproberen (liever een eigen woord? Kies er één en houd da
+ t 6 weken vast)\; 15 min scoren op T20 met routine\nAfsluiter: 1 leg 501 a
+ lleen\n\nOpbouw: 0–10 start · 10–15 ademhaling · 15–45 kern · 45
+ –55 afsluiter · 55–60 noteren (gemiddelde\, routine-trouw x/10\, span
+ ning 0–10).\n\nHARTSLAGBLOK = de eerste 10 min van de sessie. Begin binn
+ en 5 min na je wandeling of jog\, terwijl je hartslag nog hoog is. Gooi me
+ t de volledige routine en houd je grip los\, ook al klopt je hart snel. Zo
+  oefen je gooien met een snelle hartslag.\n\nROUTINE (±10 sec\, op elke p
+ ijl)\n1 Adem: 5 sec in\, 9–10 sec uit\n2 Grip: net stevig genoeg om te c
+ ontroleren\, los genoeg dat iemand de pijl er makkelijk uit trekt\n3 Zeg i
+ n gedachten "ik ben opgewonden"\n4 Blik op één vast punt op het bord\n5 
+ Cue-woord: "soepel"\n6 Gooi en zwaai door\n7 Reset: 1 uitademing\, niet co
+ rrigeren\nMinimum als het druk wordt: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -45,16 +55,20 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261110@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261110T200000
 DTEND;TZID=Europe/Amsterdam:20261110T203000
 SUMMARY:Darts W1: Fris en zeker de wedstrijd in (30 min)
 DESCRIPTION:Week 1 · Routine automatiseren\nDoel: Fris en zeker de wedstri
  jd in\nLopen vandaag: Duurwandeling\n\nLicht: 10 min inwerpen met routine\
- , 5 min ademhaling\, 15 min rustige legs 501. Geen druk\, geen straf.\n\nO
- pbouw: 0–10 start · 10–15 ademhaling · 15–45 kern · 45–55 afslu
- iter · 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10
- ).
+ , 5 min ademhaling\, 15 min rustige legs 501. Geen druk\, geen straf.\n\nN
+ oteer na afloop: routine-trouw (x/10) en spanning (0–10).\n\nROUTINE (±
+ 10 sec\, op elke pijl)\n1 Adem: 5 sec in\, 9–10 sec uit\n2 Grip: net ste
+ vig genoeg om te controleren\, los genoeg dat iemand de pijl er makkelijk 
+ uit trekt\n3 Zeg in gedachten "ik ben opgewonden"\n4 Blik op één vast pu
+ nt op het bord\n5 Cue-woord: "soepel"\n6 Gooi en zwaai door\n7 Reset: 1 ui
+ tademing\, niet corrigeren\nMinimum als het druk wordt: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -65,7 +79,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261112@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261112T200000
 DTEND;TZID=Europe/Amsterdam:20261112T210000
 SUMMARY:Darts W1: Vast tempo in je routine (60 min)
@@ -75,7 +90,15 @@ DESCRIPTION:Week 1 · Routine automatiseren\nDoel: Vast tempo in je routine
  eeds hetzelfde tempo\; 15 min doubles D16\, D8\, D20 zonder straf\nAfsluit
  er: 1 leg 501 alleen\n\nOpbouw: 0–10 start · 10–15 ademhaling · 15
  –45 kern · 45–55 afsluiter · 55–60 noteren (gemiddelde\, routine-t
- rouw x/10\, spanning 0–10).
+ rouw x/10\, spanning 0–10).\n\nHARTSLAGBLOK = de eerste 10 min van de se
+ ssie. Begin binnen 5 min na je wandeling of jog\, terwijl je hartslag nog 
+ hoog is. Gooi met de volledige routine en houd je grip los\, ook al klopt 
+ je hart snel. Zo oefen je gooien met een snelle hartslag.\n\nROUTINE (±10
+  sec\, op elke pijl)\n1 Adem: 5 sec in\, 9–10 sec uit\n2 Grip: net stevi
+ g genoeg om te controleren\, los genoeg dat iemand de pijl er makkelijk ui
+ t trekt\n3 Zeg in gedachten "ik ben opgewonden"\n4 Blik op één vast punt
+  op het bord\n5 Cue-woord: "soepel"\n6 Gooi en zwaai door\n7 Reset: 1 uita
+ deming\, niet corrigeren\nMinimum als het druk wordt: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -86,7 +109,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261113@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261113T190000
 DTEND;TZID=Europe/Amsterdam:20261113T200000
 SUMMARY:Darts W1: Routine op elke pijl\, ook bij finishes (60 min)
@@ -95,7 +119,13 @@ DESCRIPTION:Week 1 · Routine automatiseren\nDoel: Routine op elke pijl\, o
  ine\nKern: 30 min 501 alleen\; noteer per beurt de score en of je de routi
  ne hield\nAfsluiter: checkouts 40–80\, ook met routine\n\nOpbouw: 0–10
   start · 10–15 ademhaling · 15–45 kern · 45–55 afsluiter · 55–
- 60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+ 60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).\n\nROUTINE
+  (±10 sec\, op elke pijl)\n1 Adem: 5 sec in\, 9–10 sec uit\n2 Grip: net
+  stevig genoeg om te controleren\, los genoeg dat iemand de pijl er makkel
+ ijk uit trekt\n3 Zeg in gedachten "ik ben opgewonden"\n4 Blik op één vas
+ t punt op het bord\n5 Cue-woord: "soepel"\n6 Gooi en zwaai door\n7 Reset: 
+ 1 uitademing\, niet corrigeren\nMinimum als het druk wordt: adem + "soepel
+ ".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -106,7 +136,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261114@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261114T200000
 DTEND;TZID=Europe/Amsterdam:20261114T210000
 SUMMARY:Darts W1: Routine houden met verhoogde hartslag (60 min)
@@ -115,7 +146,15 @@ DESCRIPTION:Week 1 · Routine automatiseren\nDoel: Routine houden met verho
  ect na het lopen\nKern: 30 min legs 501 alleen\nAfsluiter: checkouts 40–
  80\n\nOpbouw: 0–10 start · 10–15 ademhaling · 15–45 kern · 45–5
  5 afsluiter · 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning
-  0–10).
+  0–10).\n\nHARTSLAGBLOK = de eerste 10 min van de sessie. Begin binnen 5
+  min na je wandeling of jog\, terwijl je hartslag nog hoog is. Gooi met de
+  volledige routine en houd je grip los\, ook al klopt je hart snel. Zo oef
+ en je gooien met een snelle hartslag.\n\nROUTINE (±10 sec\, op elke pijl)
+ \n1 Adem: 5 sec in\, 9–10 sec uit\n2 Grip: net stevig genoeg om te contr
+ oleren\, los genoeg dat iemand de pijl er makkelijk uit trekt\n3 Zeg in ge
+ dachten "ik ben opgewonden"\n4 Blik op één vast punt op het bord\n5 Cue-
+ woord: "soepel"\n6 Gooi en zwaai door\n7 Reset: 1 uitademing\, niet corrig
+ eren\nMinimum als het druk wordt: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -126,7 +165,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261115@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261115T200000
 DTEND;TZID=Europe/Amsterdam:20261115T210000
 SUMMARY:Darts W1: Thuis-basislijn (60 min)
@@ -135,7 +175,13 @@ DESCRIPTION:Week 1 · Routine automatiseren\nDoel: Thuis-basislijn\nLopen v
  eekmeting\, 5 legs 501 (gemiddelde\, routine-trouw\, spanning)\nAfsluiter:
   beslissen: routine in 8 van 10 beurten? Dan door naar week 2\n\nOpbouw: 0
  –10 start · 10–15 ademhaling · 15–45 kern · 45–55 afsluiter · 
- 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+ 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).\n\nRO
+ UTINE (±10 sec\, op elke pijl)\n1 Adem: 5 sec in\, 9–10 sec uit\n2 Grip
+ : net stevig genoeg om te controleren\, los genoeg dat iemand de pijl er m
+ akkelijk uit trekt\n3 Zeg in gedachten "ik ben opgewonden"\n4 Blik op éé
+ n vast punt op het bord\n5 Cue-woord: "soepel"\n6 Gooi en zwaai door\n7 Re
+ set: 1 uitademing\, niet corrigeren\nMinimum als het druk wordt: adem + "s
+ oepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -146,16 +192,21 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261116@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261116T200000
 DTEND;TZID=Europe/Amsterdam:20261116T203000
 SUMMARY:Darts W2: Fris de wedstrijd in (30 min)
 DESCRIPTION:Week 2 · Lichte druk: camera en computertegenstander\nDoel: Fr
  is de wedstrijd in\nLopen vandaag: Jog-sessie\n\nLicht: 10 min inwerpen me
  t routine\, 5 min ademhaling\, 15 min rustige legs 501. Geen druk\, geen s
- traf. Avond voor de wedstrijd.\n\nOpbouw: 0–10 start · 10–15 ademhali
- ng · 15–45 kern · 45–55 afsluiter · 55–60 noteren (gemiddelde\, r
- outine-trouw x/10\, spanning 0–10).
+ traf. Avond voor de wedstrijd.\n\nNoteer na afloop: routine-trouw (x/10) e
+ n spanning (0–10).\n\nROUTINE (±10 sec\, op elke pijl)\n1 Adem: 5 sec i
+ n\, 9–10 sec uit\n2 Grip: net stevig genoeg om te controleren\, los geno
+ eg dat iemand de pijl er makkelijk uit trekt\n3 Zeg in gedachten "ik ben o
+ pgewonden"\n4 Blik op één vast punt op het bord\n5 Cue-woord: "soepel"\n
+ 6 Gooi en zwaai door\n7 Reset: 1 uitademing\, niet corrigeren\nMinimum als
+  het druk wordt: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -166,7 +217,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261118@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261118T200000
 DTEND;TZID=Europe/Amsterdam:20261118T210000
 SUMMARY:Darts W2: Wennen aan de camera (60 min)
@@ -175,7 +227,16 @@ DESCRIPTION:Week 2 · Lichte druk: camera en computertegenstander\nDoel: We
  rtslagblok\, direct na het lopen\nKern: camera aan\, 30 min legs 501 allee
  n\nAfsluiter: 1 leg tegen de computer op je thuisgemiddelde\n\nOpbouw: 0
  –10 start · 10–15 ademhaling · 15–45 kern · 45–55 afsluiter · 
- 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+ 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).\n\nHA
+ RTSLAGBLOK = de eerste 10 min van de sessie. Begin binnen 5 min na je wand
+ eling of jog\, terwijl je hartslag nog hoog is. Gooi met de volledige rout
+ ine en houd je grip los\, ook al klopt je hart snel. Zo oefen je gooien me
+ t een snelle hartslag.\n\nROUTINE (±10 sec\, op elke pijl)\n1 Adem: 5 sec
+  in\, 9–10 sec uit\n2 Grip: net stevig genoeg om te controleren\, los ge
+ noeg dat iemand de pijl er makkelijk uit trekt\n3 Zeg in gedachten "ik ben
+  opgewonden"\n4 Blik op één vast punt op het bord\n5 Cue-woord: "soepel"
+ \n6 Gooi en zwaai door\n7 Reset: 1 uitademing\, niet corrigeren\nMinimum a
+ ls het druk wordt: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -186,7 +247,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261119@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261119T200000
 DTEND;TZID=Europe/Amsterdam:20261119T210000
 SUMMARY:Darts W2: Routine houden terwijl je gefilmd wordt (60 min)
@@ -195,7 +257,16 @@ DESCRIPTION:Week 2 · Lichte druk: camera en computertegenstander\nDoel: Ro
   hartslagblok\, direct na het lopen\, gefilmd\nKern: doubles en checkouts\
  , gefilmd\nAfsluiter: 1 leg tegen de computer\n\nOpbouw: 0–10 start · 1
  0–15 ademhaling · 15–45 kern · 45–55 afsluiter · 55–60 noteren 
- (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+ (gemiddelde\, routine-trouw x/10\, spanning 0–10).\n\nHARTSLAGBLOK = de 
+ eerste 10 min van de sessie. Begin binnen 5 min na je wandeling of jog\, t
+ erwijl je hartslag nog hoog is. Gooi met de volledige routine en houd je g
+ rip los\, ook al klopt je hart snel. Zo oefen je gooien met een snelle har
+ tslag.\n\nROUTINE (±10 sec\, op elke pijl)\n1 Adem: 5 sec in\, 9–10 sec
+  uit\n2 Grip: net stevig genoeg om te controleren\, los genoeg dat iemand 
+ de pijl er makkelijk uit trekt\n3 Zeg in gedachten "ik ben opgewonden"\n4 
+ Blik op één vast punt op het bord\n5 Cue-woord: "soepel"\n6 Gooi en zwaa
+ i door\n7 Reset: 1 uitademing\, niet corrigeren\nMinimum als het druk word
+ t: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -206,7 +277,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261120@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261120T190000
 DTEND;TZID=Europe/Amsterdam:20261120T200000
 SUMMARY:Darts W2: Routine houden met een tegenstander (60 min)
@@ -216,7 +288,12 @@ DESCRIPTION:Week 2 · Lichte druk: camera en computertegenstander\nDoel: Ro
   je thuisgemiddelde\nAfsluiter: één beslissende leg: wie wint\, wint de 
  avond\n\nOpbouw: 0–10 start · 10–15 ademhaling · 15–45 kern · 45
  –55 afsluiter · 55–60 noteren (gemiddelde\, routine-trouw x/10\, span
- ning 0–10).
+ ning 0–10).\n\nROUTINE (±10 sec\, op elke pijl)\n1 Adem: 5 sec in\, 9
+ –10 sec uit\n2 Grip: net stevig genoeg om te controleren\, los genoeg da
+ t iemand de pijl er makkelijk uit trekt\n3 Zeg in gedachten "ik ben opgewo
+ nden"\n4 Blik op één vast punt op het bord\n5 Cue-woord: "soepel"\n6 Goo
+ i en zwaai door\n7 Reset: 1 uitademing\, niet corrigeren\nMinimum als het 
+ druk wordt: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -227,7 +304,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261121@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261121T200000
 DTEND;TZID=Europe/Amsterdam:20261121T210000
 SUMMARY:Darts W2: Druk en hartslag samen (60 min)
@@ -236,7 +314,15 @@ DESCRIPTION:Week 2 · Lichte druk: camera en computertegenstander\nDoel: Dr
  k\, direct na het lopen\nKern: legs tegen de computer\nAfsluiter: checkout
  s 40–100\n\nOpbouw: 0–10 start · 10–15 ademhaling · 15–45 kern 
  · 45–55 afsluiter · 55–60 noteren (gemiddelde\, routine-trouw x/10\,
-  spanning 0–10).
+  spanning 0–10).\n\nHARTSLAGBLOK = de eerste 10 min van de sessie. Begin
+  binnen 5 min na je wandeling of jog\, terwijl je hartslag nog hoog is. Go
+ oi met de volledige routine en houd je grip los\, ook al klopt je hart sne
+ l. Zo oefen je gooien met een snelle hartslag.\n\nROUTINE (±10 sec\, op e
+ lke pijl)\n1 Adem: 5 sec in\, 9–10 sec uit\n2 Grip: net stevig genoeg om
+  te controleren\, los genoeg dat iemand de pijl er makkelijk uit trekt\n3 
+ Zeg in gedachten "ik ben opgewonden"\n4 Blik op één vast punt op het bor
+ d\n5 Cue-woord: "soepel"\n6 Gooi en zwaai door\n7 Reset: 1 uitademing\, ni
+ et corrigeren\nMinimum als het druk wordt: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -247,7 +333,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261122@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261122T200000
 DTEND;TZID=Europe/Amsterdam:20261122T210000
 SUMMARY:Darts W2: Meten wat je echt doet (60 min)
@@ -257,7 +344,12 @@ DESCRIPTION:Week 2 · Lichte druk: camera en computertegenstander\nDoel: Me
   en tempo tellen\; daarna weekmeting\, 5 legs gefilmd\nAfsluiter: 8 van 10
  ? Door naar week 3\n\nOpbouw: 0–10 start · 10–15 ademhaling · 15–4
  5 kern · 45–55 afsluiter · 55–60 noteren (gemiddelde\, routine-trouw
-  x/10\, spanning 0–10).
+  x/10\, spanning 0–10).\n\nROUTINE (±10 sec\, op elke pijl)\n1 Adem: 5 
+ sec in\, 9–10 sec uit\n2 Grip: net stevig genoeg om te controleren\, los
+  genoeg dat iemand de pijl er makkelijk uit trekt\n3 Zeg in gedachten "ik 
+ ben opgewonden"\n4 Blik op één vast punt op het bord\n5 Cue-woord: "soep
+ el"\n6 Gooi en zwaai door\n7 Reset: 1 uitademing\, niet corrigeren\nMinimu
+ m als het druk wordt: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -268,7 +360,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261123@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261123T200000
 DTEND;TZID=Europe/Amsterdam:20261123T210000
 SUMMARY:Darts W3: Wennen aan straf (60 min)
@@ -277,7 +370,15 @@ DESCRIPTION:Week 3 · Consequenties\nDoel: Wennen aan straf\nLopen vandaag:
   elke beurt onder 41 = 10 squats\nAfsluiter: 1 leg tegen de computer\; bij
   verlies straf\n\nOpbouw: 0–10 start · 10–15 ademhaling · 15–45 ke
  rn · 45–55 afsluiter · 55–60 noteren (gemiddelde\, routine-trouw x/1
- 0\, spanning 0–10).
+ 0\, spanning 0–10).\n\nHARTSLAGBLOK = de eerste 10 min van de sessie. Be
+ gin binnen 5 min na je wandeling of jog\, terwijl je hartslag nog hoog is.
+  Gooi met de volledige routine en houd je grip los\, ook al klopt je hart 
+ snel. Zo oefen je gooien met een snelle hartslag.\n\nROUTINE (±10 sec\, o
+ p elke pijl)\n1 Adem: 5 sec in\, 9–10 sec uit\n2 Grip: net stevig genoeg
+  om te controleren\, los genoeg dat iemand de pijl er makkelijk uit trekt\
+ n3 Zeg in gedachten "ik ben opgewonden"\n4 Blik op één vast punt op het 
+ bord\n5 Cue-woord: "soepel"\n6 Gooi en zwaai door\n7 Reset: 1 uitademing\,
+  niet corrigeren\nMinimum als het druk wordt: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -288,15 +389,20 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261124@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261124T200000
 DTEND;TZID=Europe/Amsterdam:20261124T203000
 SUMMARY:Darts W3: Fris de wedstrijd in (30 min)
 DESCRIPTION:Week 3 · Consequenties\nDoel: Fris de wedstrijd in\nLopen vand
  aag: Duurwandeling\n\nLicht: 10 min inwerpen met routine\, 5 min ademhalin
- g\, 15 min rustige legs 501. Geen druk\, geen straf.\n\nOpbouw: 0–10 sta
- rt · 10–15 ademhaling · 15–45 kern · 45–55 afsluiter · 55–60 n
- oteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+ g\, 15 min rustige legs 501. Geen druk\, geen straf.\n\nNoteer na afloop: 
+ routine-trouw (x/10) en spanning (0–10).\n\nROUTINE (±10 sec\, op elke 
+ pijl)\n1 Adem: 5 sec in\, 9–10 sec uit\n2 Grip: net stevig genoeg om te 
+ controleren\, los genoeg dat iemand de pijl er makkelijk uit trekt\n3 Zeg 
+ in gedachten "ik ben opgewonden"\n4 Blik op één vast punt op het bord\n5
+  Cue-woord: "soepel"\n6 Gooi en zwaai door\n7 Reset: 1 uitademing\, niet c
+ orrigeren\nMinimum als het druk wordt: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -307,7 +413,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261126@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261126T200000
 DTEND;TZID=Europe/Amsterdam:20261126T210000
 SUMMARY:Darts W3: Doubles onder druk (60 min)
@@ -316,7 +423,16 @@ DESCRIPTION:Week 3 · Consequenties\nDoel: Doubles onder druk\nLopen vandaa
  D16\, D8\, D20 (3 pijlen per double)\; geen enkele raak = straf\nAfsluiter
  : 3 pijlen op D20\; mis = straf\n\nOpbouw: 0–10 start · 10–15 ademhal
  ing · 15–45 kern · 45–55 afsluiter · 55–60 noteren (gemiddelde\, 
- routine-trouw x/10\, spanning 0–10).
+ routine-trouw x/10\, spanning 0–10).\n\nHARTSLAGBLOK = de eerste 10 min 
+ van de sessie. Begin binnen 5 min na je wandeling of jog\, terwijl je hart
+ slag nog hoog is. Gooi met de volledige routine en houd je grip los\, ook 
+ al klopt je hart snel. Zo oefen je gooien met een snelle hartslag.\n\nROUT
+ INE (±10 sec\, op elke pijl)\n1 Adem: 5 sec in\, 9–10 sec uit\n2 Grip: 
+ net stevig genoeg om te controleren\, los genoeg dat iemand de pijl er mak
+ kelijk uit trekt\n3 Zeg in gedachten "ik ben opgewonden"\n4 Blik op één 
+ vast punt op het bord\n5 Cue-woord: "soepel"\n6 Gooi en zwaai door\n7 Rese
+ t: 1 uitademing\, niet corrigeren\nMinimum als het druk wordt: adem + "soe
+ pel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -327,7 +443,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261127@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261127T190000
 DTEND;TZID=Europe/Amsterdam:20261127T200000
 SUMMARY:Darts W3: Echte consequenties (60 min)
@@ -336,7 +453,13 @@ DESCRIPTION:Week 3 · Consequenties\nDoel: Echte consequenties\nLopen vanda
  fening met straf\; elke mislukte ronde ook 1 euro in de pot voor een goed 
  doel\nAfsluiter: 1 leg tegen de computer\; bij verlies straf\n\nOpbouw: 0
  –10 start · 10–15 ademhaling · 15–45 kern · 45–55 afsluiter · 
- 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+ 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).\n\nRO
+ UTINE (±10 sec\, op elke pijl)\n1 Adem: 5 sec in\, 9–10 sec uit\n2 Grip
+ : net stevig genoeg om te controleren\, los genoeg dat iemand de pijl er m
+ akkelijk uit trekt\n3 Zeg in gedachten "ik ben opgewonden"\n4 Blik op éé
+ n vast punt op het bord\n5 Cue-woord: "soepel"\n6 Gooi en zwaai door\n7 Re
+ set: 1 uitademing\, niet corrigeren\nMinimum als het druk wordt: adem + "s
+ oepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -347,7 +470,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261128@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261128T200000
 DTEND;TZID=Europe/Amsterdam:20261128T210000
 SUMMARY:Darts W3: Druk en hartslag samen (60 min)
@@ -356,7 +480,15 @@ DESCRIPTION:Week 3 · Consequenties\nDoel: Druk en hartslag samen\nLopen va
   legs tegen de computer\; elke verloren leg = straf\nAfsluiter: checkouts 
  40–100 met inzet\n\nOpbouw: 0–10 start · 10–15 ademhaling · 15–4
  5 kern · 45–55 afsluiter · 55–60 noteren (gemiddelde\, routine-trouw
-  x/10\, spanning 0–10).
+  x/10\, spanning 0–10).\n\nHARTSLAGBLOK = de eerste 10 min van de sessie
+ . Begin binnen 5 min na je wandeling of jog\, terwijl je hartslag nog hoog
+  is. Gooi met de volledige routine en houd je grip los\, ook al klopt je h
+ art snel. Zo oefen je gooien met een snelle hartslag.\n\nROUTINE (±10 sec
+ \, op elke pijl)\n1 Adem: 5 sec in\, 9–10 sec uit\n2 Grip: net stevig ge
+ noeg om te controleren\, los genoeg dat iemand de pijl er makkelijk uit tr
+ ekt\n3 Zeg in gedachten "ik ben opgewonden"\n4 Blik op één vast punt op 
+ het bord\n5 Cue-woord: "soepel"\n6 Gooi en zwaai door\n7 Reset: 1 uitademi
+ ng\, niet corrigeren\nMinimum als het druk wordt: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -367,7 +499,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261129@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261129T200000
 DTEND;TZID=Europe/Amsterdam:20261129T210000
 SUMMARY:Darts W3: Spanning 3–5 van 10 houden (60 min)
@@ -375,7 +508,13 @@ DESCRIPTION:Week 3 · Consequenties\nDoel: Spanning 3–5 van 10 houden\nLo
  pen vandaag: Herstelwandeling\n\nStart: inwerpen\nKern: 20 min Bob's 27\; 
  daarna weekmeting\, 5 legs\nAfsluiter: 8 van 10? Door naar week 4\n\nOpbou
  w: 0–10 start · 10–15 ademhaling · 15–45 kern · 45–55 afsluiter
-  · 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+  · 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).\n
+ \nROUTINE (±10 sec\, op elke pijl)\n1 Adem: 5 sec in\, 9–10 sec uit\n2 
+ Grip: net stevig genoeg om te controleren\, los genoeg dat iemand de pijl 
+ er makkelijk uit trekt\n3 Zeg in gedachten "ik ben opgewonden"\n4 Blik op 
+ één vast punt op het bord\n5 Cue-woord: "soepel"\n6 Gooi en zwaai door\n
+ 7 Reset: 1 uitademing\, niet corrigeren\nMinimum als het druk wordt: adem 
+ + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -386,7 +525,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261130@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261130T200000
 DTEND;TZID=Europe/Amsterdam:20261130T210000
 SUMMARY:Darts W4: Wennen aan lawaai (60 min)
@@ -395,7 +535,15 @@ DESCRIPTION:Week 4 · Publiek\nDoel: Wennen aan lawaai\nLopen vandaag: Jog-
  Kern: legs 501 met zaalgeluid en camera\nAfsluiter: 1 leg tegen de compute
  r\n\nOpbouw: 0–10 start · 10–15 ademhaling · 15–45 kern · 45–55
   afsluiter · 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 
- 0–10).
+ 0–10).\n\nHARTSLAGBLOK = de eerste 10 min van de sessie. Begin binnen 5 
+ min na je wandeling of jog\, terwijl je hartslag nog hoog is. Gooi met de 
+ volledige routine en houd je grip los\, ook al klopt je hart snel. Zo oefe
+ n je gooien met een snelle hartslag.\n\nROUTINE (±10 sec\, op elke pijl)\
+ n1 Adem: 5 sec in\, 9–10 sec uit\n2 Grip: net stevig genoeg om te contro
+ leren\, los genoeg dat iemand de pijl er makkelijk uit trekt\n3 Zeg in ged
+ achten "ik ben opgewonden"\n4 Blik op één vast punt op het bord\n5 Cue-w
+ oord: "soepel"\n6 Gooi en zwaai door\n7 Reset: 1 uitademing\, niet corrige
+ ren\nMinimum als het druk wordt: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -406,15 +554,20 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261201@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261201T200000
 DTEND;TZID=Europe/Amsterdam:20261201T203000
 SUMMARY:Darts W4: Fris de wedstrijd in (30 min)
 DESCRIPTION:Week 4 · Publiek\nDoel: Fris de wedstrijd in\nLopen vandaag: D
  uurwandeling\n\nLicht: 10 min inwerpen met routine\, 5 min ademhaling\, 15
-  min rustige legs 501. Geen druk\, geen straf.\n\nOpbouw: 0–10 start · 
- 10–15 ademhaling · 15–45 kern · 45–55 afsluiter · 55–60 noteren
-  (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+  min rustige legs 501. Geen druk\, geen straf.\n\nNoteer na afloop: routin
+ e-trouw (x/10) en spanning (0–10).\n\nROUTINE (±10 sec\, op elke pijl)\
+ n1 Adem: 5 sec in\, 9–10 sec uit\n2 Grip: net stevig genoeg om te contro
+ leren\, los genoeg dat iemand de pijl er makkelijk uit trekt\n3 Zeg in ged
+ achten "ik ben opgewonden"\n4 Blik op één vast punt op het bord\n5 Cue-w
+ oord: "soepel"\n6 Gooi en zwaai door\n7 Reset: 1 uitademing\, niet corrige
+ ren\nMinimum als het druk wordt: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -425,7 +578,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261203@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261203T200000
 DTEND;TZID=Europe/Amsterdam:20261203T210000
 SUMMARY:Darts W4: Doubles met onrust om je heen (60 min)
@@ -434,7 +588,15 @@ DESCRIPTION:Week 4 · Publiek\nDoel: Doubles met onrust om je heen\nLopen v
  bles en checkouts met zaalgeluid\nAfsluiter: 3 pijlen op D16\; mis = straf
  \n\nOpbouw: 0–10 start · 10–15 ademhaling · 15–45 kern · 45–55 
  afsluiter · 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0
- –10).
+ –10).\n\nHARTSLAGBLOK = de eerste 10 min van de sessie. Begin binnen 5 m
+ in na je wandeling of jog\, terwijl je hartslag nog hoog is. Gooi met de v
+ olledige routine en houd je grip los\, ook al klopt je hart snel. Zo oefen
+  je gooien met een snelle hartslag.\n\nROUTINE (±10 sec\, op elke pijl)\n
+ 1 Adem: 5 sec in\, 9–10 sec uit\n2 Grip: net stevig genoeg om te control
+ eren\, los genoeg dat iemand de pijl er makkelijk uit trekt\n3 Zeg in geda
+ chten "ik ben opgewonden"\n4 Blik op één vast punt op het bord\n5 Cue-wo
+ ord: "soepel"\n6 Gooi en zwaai door\n7 Reset: 1 uitademing\, niet corriger
+ en\nMinimum als het druk wordt: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -445,7 +607,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261204@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261204T190000
 DTEND;TZID=Europe/Amsterdam:20261204T200000
 SUMMARY:Darts W4: Spelen terwijl er iemand kijkt (60 min)
@@ -454,7 +617,12 @@ DESCRIPTION:Week 4 · Publiek\nDoel: Spelen terwijl er iemand kijkt\nLopen
  e legs tegen echte tegenstanders met webcam\, of iemand die via videobelle
  n meekijkt\nAfsluiter: één beslissende leg\n\nOpbouw: 0–10 start · 10
  –15 ademhaling · 15–45 kern · 45–55 afsluiter · 55–60 noteren (
- gemiddelde\, routine-trouw x/10\, spanning 0–10).
+ gemiddelde\, routine-trouw x/10\, spanning 0–10).\n\nROUTINE (±10 sec\,
+  op elke pijl)\n1 Adem: 5 sec in\, 9–10 sec uit\n2 Grip: net stevig geno
+ eg om te controleren\, los genoeg dat iemand de pijl er makkelijk uit trek
+ t\n3 Zeg in gedachten "ik ben opgewonden"\n4 Blik op één vast punt op he
+ t bord\n5 Cue-woord: "soepel"\n6 Gooi en zwaai door\n7 Reset: 1 uitademing
+ \, niet corrigeren\nMinimum als het druk wordt: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -465,7 +633,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261205@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261205T200000
 DTEND;TZID=Europe/Amsterdam:20261205T210000
 SUMMARY:Darts W4: Druk en hartslag samen (60 min)
@@ -474,7 +643,15 @@ DESCRIPTION:Week 4 · Publiek\nDoel: Druk en hartslag samen\nLopen vandaag:
  tegen de computer\, met meekijker of camera en zaalgeluid\nAfsluiter: chec
  kouts met inzet\n\nOpbouw: 0–10 start · 10–15 ademhaling · 15–45 k
  ern · 45–55 afsluiter · 55–60 noteren (gemiddelde\, routine-trouw x/
- 10\, spanning 0–10).
+ 10\, spanning 0–10).\n\nHARTSLAGBLOK = de eerste 10 min van de sessie. B
+ egin binnen 5 min na je wandeling of jog\, terwijl je hartslag nog hoog is
+ . Gooi met de volledige routine en houd je grip los\, ook al klopt je hart
+  snel. Zo oefen je gooien met een snelle hartslag.\n\nROUTINE (±10 sec\, 
+ op elke pijl)\n1 Adem: 5 sec in\, 9–10 sec uit\n2 Grip: net stevig genoe
+ g om te controleren\, los genoeg dat iemand de pijl er makkelijk uit trekt
+ \n3 Zeg in gedachten "ik ben opgewonden"\n4 Blik op één vast punt op het
+  bord\n5 Cue-woord: "soepel"\n6 Gooi en zwaai door\n7 Reset: 1 uitademing\
+ , niet corrigeren\nMinimum als het druk wordt: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -485,7 +662,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261206@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261206T200000
 DTEND;TZID=Europe/Amsterdam:20261206T210000
 SUMMARY:Darts W4: Beoordeeld worden (60 min)
@@ -494,7 +672,12 @@ DESCRIPTION:Week 4 · Publiek\nDoel: Beoordeeld worden\nLopen vandaag: Hers
   en de opname naar iemand sturen\; daarna weekmeting\, 5 legs\nAfsluiter: 
  8 van 10? Door naar week 5\n\nOpbouw: 0–10 start · 10–15 ademhaling 
  · 15–45 kern · 45–55 afsluiter · 55–60 noteren (gemiddelde\, rout
- ine-trouw x/10\, spanning 0–10).
+ ine-trouw x/10\, spanning 0–10).\n\nROUTINE (±10 sec\, op elke pijl)\n1
+  Adem: 5 sec in\, 9–10 sec uit\n2 Grip: net stevig genoeg om te controle
+ ren\, los genoeg dat iemand de pijl er makkelijk uit trekt\n3 Zeg in gedac
+ hten "ik ben opgewonden"\n4 Blik op één vast punt op het bord\n5 Cue-woo
+ rd: "soepel"\n6 Gooi en zwaai door\n7 Reset: 1 uitademing\, niet corrigere
+ n\nMinimum als het druk wordt: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -505,7 +688,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261207@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261207T200000
 DTEND;TZID=Europe/Amsterdam:20261207T210000
 SUMMARY:Darts W5: Wennen aan een sterkere tegenstander (60 min)
@@ -514,7 +698,16 @@ DESCRIPTION:Week 5 · Wedstrijdsimulatie\nDoel: Wennen aan een sterkere teg
  t lopen\nKern: legs tegen de computer op ongeveer 5 punten boven je gemidd
  elde\nAfsluiter: één beslissende leg\n\nOpbouw: 0–10 start · 10–15 
  ademhaling · 15–45 kern · 45–55 afsluiter · 55–60 noteren (gemidd
- elde\, routine-trouw x/10\, spanning 0–10).
+ elde\, routine-trouw x/10\, spanning 0–10).\n\nHARTSLAGBLOK = de eerste 
+ 10 min van de sessie. Begin binnen 5 min na je wandeling of jog\, terwijl 
+ je hartslag nog hoog is. Gooi met de volledige routine en houd je grip los
+ \, ook al klopt je hart snel. Zo oefen je gooien met een snelle hartslag.\
+ n\nROUTINE (±10 sec\, op elke pijl)\n1 Adem: 5 sec in\, 9–10 sec uit\n2
+  Grip: net stevig genoeg om te controleren\, los genoeg dat iemand de pijl
+  er makkelijk uit trekt\n3 Zeg in gedachten "ik ben opgewonden"\n4 Blik op
+  één vast punt op het bord\n5 Cue-woord: "soepel"\n6 Gooi en zwaai door\
+ n7 Reset: 1 uitademing\, niet corrigeren\nMinimum als het druk wordt: adem
+  + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -525,15 +718,20 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261208@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261208T200000
 DTEND;TZID=Europe/Amsterdam:20261208T203000
 SUMMARY:Darts W5: Fris de wedstrijd in (30 min)
 DESCRIPTION:Week 5 · Wedstrijdsimulatie\nDoel: Fris de wedstrijd in\nLopen
   vandaag: Duurwandeling\n\nLicht: 10 min inwerpen met routine\, 5 min adem
- haling\, 15 min rustige legs 501. Geen druk\, geen straf.\n\nOpbouw: 0–1
- 0 start · 10–15 ademhaling · 15–45 kern · 45–55 afsluiter · 55
- –60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+ haling\, 15 min rustige legs 501. Geen druk\, geen straf.\n\nNoteer na afl
+ oop: routine-trouw (x/10) en spanning (0–10).\n\nROUTINE (±10 sec\, op 
+ elke pijl)\n1 Adem: 5 sec in\, 9–10 sec uit\n2 Grip: net stevig genoeg o
+ m te controleren\, los genoeg dat iemand de pijl er makkelijk uit trekt\n3
+  Zeg in gedachten "ik ben opgewonden"\n4 Blik op één vast punt op het bo
+ rd\n5 Cue-woord: "soepel"\n6 Gooi en zwaai door\n7 Reset: 1 uitademing\, n
+ iet corrigeren\nMinimum als het druk wordt: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -544,7 +742,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261210@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261210T200000
 DTEND;TZID=Europe/Amsterdam:20261210T210000
 SUMMARY:Darts W5: Uitgooien onder druk (60 min)
@@ -552,7 +751,16 @@ DESCRIPTION:Week 5 · Wedstrijdsimulatie\nDoel: Uitgooien onder druk\nLopen
   vandaag: Jog-sessie\n\nStart: hartslagblok\, direct na het lopen\nKern: c
  heckout-ladder vanaf 41\nAfsluiter: 1 leg tegen de computer (+5)\n\nOpbouw
  : 0–10 start · 10–15 ademhaling · 15–45 kern · 45–55 afsluiter 
- · 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+ · 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).\n\
+ nHARTSLAGBLOK = de eerste 10 min van de sessie. Begin binnen 5 min na je w
+ andeling of jog\, terwijl je hartslag nog hoog is. Gooi met de volledige r
+ outine en houd je grip los\, ook al klopt je hart snel. Zo oefen je gooien
+  met een snelle hartslag.\n\nROUTINE (±10 sec\, op elke pijl)\n1 Adem: 5 
+ sec in\, 9–10 sec uit\n2 Grip: net stevig genoeg om te controleren\, los
+  genoeg dat iemand de pijl er makkelijk uit trekt\n3 Zeg in gedachten "ik 
+ ben opgewonden"\n4 Blik op één vast punt op het bord\n5 Cue-woord: "soep
+ el"\n6 Gooi en zwaai door\n7 Reset: 1 uitademing\, niet corrigeren\nMinimu
+ m als het druk wordt: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -563,7 +771,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261211@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261211T190000
 DTEND;TZID=Europe/Amsterdam:20261211T200000
 SUMMARY:Darts W5: Volledige wedstrijd nabootsen (60 min)
@@ -572,7 +781,12 @@ DESCRIPTION:Week 5 · Wedstrijdsimulatie\nDoel: Volledige wedstrijd naboots
  ieavond (inwerpen\, ademhaling\, herlabelen)\nKern: best-of-5 tegen de com
  puter (+5)\; bij verlies straf\nAfsluiter: noteren\n\nOpbouw: 0–10 start
   · 10–15 ademhaling · 15–45 kern · 45–55 afsluiter · 55–60 not
- eren (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+ eren (gemiddelde\, routine-trouw x/10\, spanning 0–10).\n\nROUTINE (±10
+  sec\, op elke pijl)\n1 Adem: 5 sec in\, 9–10 sec uit\n2 Grip: net stevi
+ g genoeg om te controleren\, los genoeg dat iemand de pijl er makkelijk ui
+ t trekt\n3 Zeg in gedachten "ik ben opgewonden"\n4 Blik op één vast punt
+  op het bord\n5 Cue-woord: "soepel"\n6 Gooi en zwaai door\n7 Reset: 1 uita
+ deming\, niet corrigeren\nMinimum als het druk wordt: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -583,7 +797,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261212@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261212T200000
 DTEND;TZID=Europe/Amsterdam:20261212T210000
 SUMMARY:Darts W5: Druk en hartslag samen (60 min)
@@ -592,7 +807,15 @@ DESCRIPTION:Week 5 · Wedstrijdsimulatie\nDoel: Druk en hartslag samen\nLop
  Kern: legs tegen de computer (+5)\nAfsluiter: finishes 40–170 met inzet\
  n\nOpbouw: 0–10 start · 10–15 ademhaling · 15–45 kern · 45–55 a
  fsluiter · 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0
- –10).
+ –10).\n\nHARTSLAGBLOK = de eerste 10 min van de sessie. Begin binnen 5 m
+ in na je wandeling of jog\, terwijl je hartslag nog hoog is. Gooi met de v
+ olledige routine en houd je grip los\, ook al klopt je hart snel. Zo oefen
+  je gooien met een snelle hartslag.\n\nROUTINE (±10 sec\, op elke pijl)\n
+ 1 Adem: 5 sec in\, 9–10 sec uit\n2 Grip: net stevig genoeg om te control
+ eren\, los genoeg dat iemand de pijl er makkelijk uit trekt\n3 Zeg in geda
+ chten "ik ben opgewonden"\n4 Blik op één vast punt op het bord\n5 Cue-wo
+ ord: "soepel"\n6 Gooi en zwaai door\n7 Reset: 1 uitademing\, niet corriger
+ en\nMinimum als het druk wordt: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -603,7 +826,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261213@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261213T200000
 DTEND;TZID=Europe/Amsterdam:20261213T210000
 SUMMARY:Darts W5: Verschil thuis en onder druk meten (60 min)
@@ -613,7 +837,12 @@ DESCRIPTION:Week 5 · Wedstrijdsimulatie\nDoel: Verschil thuis en onder dru
   halen\; daarna weekmeting\, 5 legs\nAfsluiter: 8 van 10? Door naar week 6
  \n\nOpbouw: 0–10 start · 10–15 ademhaling · 15–45 kern · 45–55 
  afsluiter · 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0
- –10).
+ –10).\n\nROUTINE (±10 sec\, op elke pijl)\n1 Adem: 5 sec in\, 9–10 se
+ c uit\n2 Grip: net stevig genoeg om te controleren\, los genoeg dat iemand
+  de pijl er makkelijk uit trekt\n3 Zeg in gedachten "ik ben opgewonden"\n4
+  Blik op één vast punt op het bord\n5 Cue-woord: "soepel"\n6 Gooi en zwa
+ ai door\n7 Reset: 1 uitademing\, niet corrigeren\nMinimum als het druk wor
+ dt: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -624,15 +853,23 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261214@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261214T200000
 DTEND;TZID=Europe/Amsterdam:20261214T203000
 SUMMARY:Darts W6: Fris blijven (30 min)
 DESCRIPTION:Week 6 · Echte wedstrijd en evaluatie\nDoel: Fris blijven\nLop
  en vandaag: Jog-sessie\n\nStart: hartslagblok\nLicht: 5 min ademhaling\, 1
- 5 min rustige legs. Geen druk.\n\nOpbouw: 0–10 start · 10–15 ademhali
- ng · 15–45 kern · 45–55 afsluiter · 55–60 noteren (gemiddelde\, r
- outine-trouw x/10\, spanning 0–10).
+ 5 min rustige legs. Geen druk.\n\nNoteer na afloop: routine-trouw (x/10) e
+ n spanning (0–10).\n\nHARTSLAGBLOK = de eerste 10 min van de sessie. Beg
+ in binnen 5 min na je wandeling of jog\, terwijl je hartslag nog hoog is. 
+ Gooi met de volledige routine en houd je grip los\, ook al klopt je hart s
+ nel. Zo oefen je gooien met een snelle hartslag.\n\nROUTINE (±10 sec\, op
+  elke pijl)\n1 Adem: 5 sec in\, 9–10 sec uit\n2 Grip: net stevig genoeg 
+ om te controleren\, los genoeg dat iemand de pijl er makkelijk uit trekt\n
+ 3 Zeg in gedachten "ik ben opgewonden"\n4 Blik op één vast punt op het b
+ ord\n5 Cue-woord: "soepel"\n6 Gooi en zwaai door\n7 Reset: 1 uitademing\, 
+ niet corrigeren\nMinimum als het druk wordt: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -643,15 +880,20 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261215@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261215T200000
 DTEND;TZID=Europe/Amsterdam:20261215T203000
 SUMMARY:Darts W6: Fris de wedstrijd in (30 min)
 DESCRIPTION:Week 6 · Echte wedstrijd en evaluatie\nDoel: Fris de wedstrijd
   in\nLopen vandaag: Duurwandeling\n\nLicht: 10 min inwerpen met routine\, 
- 5 min ademhaling\, 15 min rustige legs 501. Geen druk\, geen straf.\n\nOpb
- ouw: 0–10 start · 10–15 ademhaling · 15–45 kern · 45–55 afsluit
- er · 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+ 5 min ademhaling\, 15 min rustige legs 501. Geen druk\, geen straf.\n\nNot
+ eer na afloop: routine-trouw (x/10) en spanning (0–10).\n\nROUTINE (±10
+  sec\, op elke pijl)\n1 Adem: 5 sec in\, 9–10 sec uit\n2 Grip: net stevi
+ g genoeg om te controleren\, los genoeg dat iemand de pijl er makkelijk ui
+ t trekt\n3 Zeg in gedachten "ik ben opgewonden"\n4 Blik op één vast punt
+  op het bord\n5 Cue-woord: "soepel"\n6 Gooi en zwaai door\n7 Reset: 1 uita
+ deming\, niet corrigeren\nMinimum als het druk wordt: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -662,7 +904,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261217@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261217T200000
 DTEND;TZID=Europe/Amsterdam:20261217T210000
 SUMMARY:Darts W6: Druk bijhouden (60 min)
@@ -670,7 +913,16 @@ DESCRIPTION:Week 6 · Echte wedstrijd en evaluatie\nDoel: Druk bijhouden\nL
  open vandaag: Jog-sessie\n\nStart: hartslagblok\, direct na het lopen\nKer
  n: legs tegen de computer (+5)\nAfsluiter: checkouts met inzet\n\nOpbouw: 
  0–10 start · 10–15 ademhaling · 15–45 kern · 45–55 afsluiter ·
-  55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+  55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).\n\nH
+ ARTSLAGBLOK = de eerste 10 min van de sessie. Begin binnen 5 min na je wan
+ deling of jog\, terwijl je hartslag nog hoog is. Gooi met de volledige rou
+ tine en houd je grip los\, ook al klopt je hart snel. Zo oefen je gooien m
+ et een snelle hartslag.\n\nROUTINE (±10 sec\, op elke pijl)\n1 Adem: 5 se
+ c in\, 9–10 sec uit\n2 Grip: net stevig genoeg om te controleren\, los g
+ enoeg dat iemand de pijl er makkelijk uit trekt\n3 Zeg in gedachten "ik be
+ n opgewonden"\n4 Blik op één vast punt op het bord\n5 Cue-woord: "soepel
+ "\n6 Gooi en zwaai door\n7 Reset: 1 uitademing\, niet corrigeren\nMinimum 
+ als het druk wordt: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -681,15 +933,20 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261218@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261218T190000
 DTEND;TZID=Europe/Amsterdam:20261218T194500
 SUMMARY:Darts W6: Routine onderhouden (45 min)
 DESCRIPTION:Week 6 · Echte wedstrijd en evaluatie\nDoel: Routine onderhoud
  en\nLopen vandaag: Rust\n\nStart: inwerpen met volledige routine\nKern: ru
- stige legs\, alleen routine\nAfsluiter: geen\n\nOpbouw: 0–10 start · 10
- –15 ademhaling · 15–45 kern · 45–55 afsluiter · 55–60 noteren (
- gemiddelde\, routine-trouw x/10\, spanning 0–10).
+ stige legs\, alleen routine\nAfsluiter: geen\n\nNoteer na afloop: routine-
+ trouw (x/10) en spanning (0–10).\n\nROUTINE (±10 sec\, op elke pijl)\n1
+  Adem: 5 sec in\, 9–10 sec uit\n2 Grip: net stevig genoeg om te controle
+ ren\, los genoeg dat iemand de pijl er makkelijk uit trekt\n3 Zeg in gedac
+ hten "ik ben opgewonden"\n4 Blik op één vast punt op het bord\n5 Cue-woo
+ rd: "soepel"\n6 Gooi en zwaai door\n7 Reset: 1 uitademing\, niet corrigere
+ n\nMinimum als het druk wordt: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -700,7 +957,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261219@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261219T200000
 DTEND;TZID=Europe/Amsterdam:20261219T210000
 SUMMARY:Darts W6: Laatste simulatie (60 min)
@@ -708,7 +966,16 @@ DESCRIPTION:Week 6 · Echte wedstrijd en evaluatie\nDoel: Laatste simulatie
  \nLopen vandaag: Lange wandeling\n\nStart: hartslagblok\, direct na het lo
  pen\nKern: best-of-5 tegen de computer (+5)\nAfsluiter: noteren\n\nOpbouw:
   0–10 start · 10–15 ademhaling · 15–45 kern · 45–55 afsluiter 
- · 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+ · 55–60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).\n\
+ nHARTSLAGBLOK = de eerste 10 min van de sessie. Begin binnen 5 min na je w
+ andeling of jog\, terwijl je hartslag nog hoog is. Gooi met de volledige r
+ outine en houd je grip los\, ook al klopt je hart snel. Zo oefen je gooien
+  met een snelle hartslag.\n\nROUTINE (±10 sec\, op elke pijl)\n1 Adem: 5 
+ sec in\, 9–10 sec uit\n2 Grip: net stevig genoeg om te controleren\, los
+  genoeg dat iemand de pijl er makkelijk uit trekt\n3 Zeg in gedachten "ik 
+ ben opgewonden"\n4 Blik op één vast punt op het bord\n5 Cue-woord: "soep
+ el"\n6 Gooi en zwaai door\n7 Reset: 1 uitademing\, niet corrigeren\nMinimu
+ m als het druk wordt: adem + "soepel".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
@@ -719,7 +986,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darts-6wk-20261220@darts-plan
-DTSTAMP:20261106T120000Z
+DTSTAMP:20261109T180000Z
+SEQUENCE:1
 DTSTART;TZID=Europe/Amsterdam:20261220T200000
 DTEND;TZID=Europe/Amsterdam:20261220T210000
 SUMMARY:Darts W6: Evaluatie (60 min)
@@ -728,7 +996,13 @@ DESCRIPTION:Week 6 · Echte wedstrijd en evaluatie\nDoel: Evaluatie\nLopen
  weekmeting\, 5 legs\; vergelijk alle meetpunten met week 1\nAfsluiter: kie
  s het vervolg (zie "Voortgang en wanneer je hulp zoekt")\n\nOpbouw: 0–10
   start · 10–15 ademhaling · 15–45 kern · 45–55 afsluiter · 55–
- 60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).
+ 60 noteren (gemiddelde\, routine-trouw x/10\, spanning 0–10).\n\nROUTINE
+  (±10 sec\, op elke pijl)\n1 Adem: 5 sec in\, 9–10 sec uit\n2 Grip: net
+  stevig genoeg om te controleren\, los genoeg dat iemand de pijl er makkel
+ ijk uit trekt\n3 Zeg in gedachten "ik ben opgewonden"\n4 Blik op één vas
+ t punt op het bord\n5 Cue-woord: "soepel"\n6 Gooi en zwaai door\n7 Reset: 
+ 1 uitademing\, niet corrigeren\nMinimum als het druk wordt: adem + "soepel
+ ".
 CATEGORIES:Darts
 TRANSP:OPAQUE
 BEGIN:VALARM
